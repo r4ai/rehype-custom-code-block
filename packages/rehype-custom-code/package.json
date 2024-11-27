@@ -66,7 +66,7 @@
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.0.0",
     "rimraf": "^5.0.5",
-    "typedoc": "^0.25.4",
+    "typedoc": "^0.27.0",
     "typedoc-plugin-markdown": "^3.17.1",
     "typescript": "^5.3.2",
     "unified": "^11.0.4",
